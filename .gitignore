@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/library.db
+data/*.xlsx
+data/backup_errors.log
+data/chat_attachments/
+.vscode/
